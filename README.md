@@ -18,6 +18,14 @@
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikitlearn"  alt="Scikitlearn" width="40" height="40"/>
 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI"  alt="FastAPI" width="40" height="40"/>
+
+  <img src="https://avatars.githubusercontent.com/u/61449322?v=4" title="MLflow"  alt="MLflow" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="AirFlow"  alt="AirFlow" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit"  alt="Streamlit" width="40" height="40"/>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="40" height="40"/>
@@ -25,12 +33,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI"  alt="FastAPI" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="AirFlow"  alt="AirFlow" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit"  alt="Streamlit" width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana"  alt="Grafana" width="40" height="40"/>
 
